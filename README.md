@@ -1,2 +1,2 @@
 # MorseCodeTranslator
-Morse Code Translator with a GUI using PyQt5
+Morse Code Translator with a GUI
